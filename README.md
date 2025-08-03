@@ -31,5 +31,8 @@ A simple and interactive **Code Editor** that allows you to write **HTML**, **CS
 
 ---
 
+## 📄 License
+
+This project is released under the MIT License.
 
 
