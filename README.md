@@ -27,7 +27,7 @@ A simple and interactive **Code Editor** that allows you to write **HTML**, **CS
 2. Enter your HTML code in the **HTML** panel.  
 3. Style your page using the **CSS** panel.  
 4. Add interactivity with the **JavaScript** panel.  
-5. View the live output in the output pane—updates as you type!
+5. View the live output in the output panel—updates as you type!
 
 ---
 
